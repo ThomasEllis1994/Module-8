@@ -1,0 +1,11 @@
+[{
+  "0": {
+    "user": "_userID (FK)",
+    "ptitle": "First Post",
+    "content": "This will be giblitesh",
+    "image": "null"
+  },
+  "_id": {
+    "$oid": "66a93df81a270d5070a2c0e3"
+  }
+}]

@@ -1,0 +1,10 @@
+[{
+  "0": {
+    "user": "_userID (FK)",
+    "post": "_postID",
+    "content": "I dont like your giblitesh"
+  },
+  "_id": {
+    "$oid": "66a93f1d1a270d5070a2c0e4"
+  }
+}]
